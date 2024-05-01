@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!README.md
+!requirements.txt
+!data
+!data/departments.csv
+!data/personality_scores.csv
+!jupyter_notebook
+!jupyter_notebook/data_wrangling.ipynb
